@@ -1,0 +1,7 @@
+.rodape {
+    background-color: gainsboro;
+    color: white;
+    padding: 2rem;
+    text-align: right;
+    text-transform: lowercase;
+}
